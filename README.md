@@ -27,7 +27,7 @@ The script `main.py` does the following:
 5. The trained model can then be used to predict the class of wine.
 
 ## Live Demo
-You can try out a live demo of the project at [http://your-demo-link.com](http://your-demo-link.com).
+You can try out a live demo of the project at [https://wineclassprediction-saikapil-mini-project.streamlit.app/](https://wineclassprediction-saikapil-mini-project.streamlit.app/).
 
 ## License
 

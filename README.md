@@ -26,10 +26,8 @@ The script `main.py` does the following:
 4. Trains a RandomForestClassifier on the training data.
 5. The trained model can then be used to predict the class of wine.
 
-## Future Work
-
-- Improve the model's accuracy.
-- Add more features to the Streamlit app, such as the ability to input your own data for prediction.
+## Live Demo
+You can try out a live demo of the project at [http://your-demo-link.com](http://your-demo-link.com).
 
 ## License
 

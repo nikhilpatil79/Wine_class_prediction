@@ -13,7 +13,7 @@ This project uses machine learning to predict the class of wine based on various
 
 ## How to Run
 
-1. Install the dependencies. You can do this by running `pip install -r requirements.txt` (you'll need to create this file with the dependencies listed above).
+1. Install the dependencies.
 2. Run the Streamlit app with `streamlit run main.py`.
 
 ## How it Works
